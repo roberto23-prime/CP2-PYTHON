@@ -52,4 +52,3 @@ def menu():
 
 # Executar o menu
 menu()
-# CP2-PYTHON
